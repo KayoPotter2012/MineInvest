@@ -249,7 +249,7 @@
     text-align: center;
 }
 
-@media (max-width: 1200px){
+@media screen and (max-width: 1200px){
     .nav{
         height: 5vh;
         width: 100vw;
